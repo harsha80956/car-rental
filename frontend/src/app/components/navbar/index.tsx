@@ -12,8 +12,8 @@ const NavbarContainer = styled.div`
     flex
     flex-row
     items-center
-    pl-12
-    pr-12
+    lg:pl-12
+    lg:pr-12
     justify-between
   `};
 `;
